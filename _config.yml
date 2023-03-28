@@ -1,5 +1,5 @@
 title: Patrick Oline # your name (or website title) here
-logo: "/images/Screen Shot 2023-01-13 at 11.59.39 AM.png" width="75%" height = "75%" # your photo (or logo) here
+logo: <img src="/images/Screen Shot 2023-01-13 at 11.59.39 AM.png?raw=true" width="75%" height="75%"> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br>
