@@ -22,8 +22,8 @@
 - Implemented 3 Linear Regression and 3 Random Forest models, used best model to predictions housing prices
 - Developed and applied functions to obtain a mean absolute percent error of 10.5% on predictions
 
-<img src="https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Graphs/Screen%20Shot%202023-02-13%20at%202.54.00%20PM.png?raw=true" width="600" height="300">
-<img src="https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Graphs/Screen%20Shot%202023-02-13%20at%203.33.36%20PM.png?raw=true" width="600" height="300">
+<img src="https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Graphs/Screen%20Shot%202023-02-13%20at%202.54.00%20PM.png?raw=true" width="200" height="100">
+<img src="https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Graphs/Screen%20Shot%202023-02-13%20at%203.33.36%20PM.png?raw=true" width="200" height="100">
 
 ---
 [Project 3 Title](http://example.com/)
