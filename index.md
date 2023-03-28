@@ -15,13 +15,20 @@
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Predicting Housing Prices](https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Presentationt_Predicting_Housing_Prices.pdf)
 
-![ChessUrl](https://upload.wikimedia.org/wikipedia/commons/7/71/ChessPawnSpecialMoves.gif "chess")
+- Python Tools: Pandas, Matplotlib, NumPy, Seaborn, Datetime, Scikit-Learn, Grid and Random Cross Validation
+- Performed data cleaning and analysis on large data set with 1460 rows and over 80 features
+- Implemented 3 Linear Regression and 3 Random Forest models, used best model to predictions housing prices
+- Developed and applied functions to obtain a mean absolute percent error of 10.5% on predictions
+
+<img src="https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Graphs/Screen%20Shot%202023-02-13%20at%202.54.00%20PM.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+![ChessUrl](https://upload.wikimedia.org/wikipedia/commons/7/71/ChessPawnSpecialMoves.gif "chess")
+
 
 ---
 
