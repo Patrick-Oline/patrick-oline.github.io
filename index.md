@@ -21,8 +21,8 @@
 - Developed and applied functions to obtain a mean absolute percent error of 10.5% on predictions
 
 <p float="left">
-  <img src="https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Histogram%20of%20Sale%20Price%202.png?raw=true" width="220" height="200">
-  <img src="https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Graphs/Screen%20Shot%202023-02-13%20at%203.33.36%20PM.png?raw=true" width="180" height="200">
+  <img src="https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Histogram%20of%20Sale%20Price%202.png?raw=true" width="200" height="200">
+  <img src="https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Graphs/Screen%20Shot%202023-02-13%20at%203.33.36%20PM.png?raw=true" width="200" height="200">
 </p>
 
 ---
