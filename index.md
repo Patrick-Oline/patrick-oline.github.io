@@ -2,9 +2,7 @@
 
 ---
 
-### Projects
-
-[Custom Object Detection](https://github.com/Patrick-Oline/Custom_Object_Detection)
+### [Custom Object Detection](https://github.com/Patrick-Oline/Custom_Object_Detection)
 
 - Python Tools: OpenCV, OS ,Torch, YAML, YOLOv5, Tensorboard, Google Colab, Jupyter Notebook
 - Used transfer learning to train a pre-trained YOLO object detection model to detect a new class
@@ -15,7 +13,7 @@
 
 
 ---
-[Predicting Housing Prices](https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Presentationt_Predicting_Housing_Prices.pdf)
+### [Predicting Housing Prices](https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Presentationt_Predicting_Housing_Prices.pdf)
 
 - Python Tools: Pandas, Matplotlib, NumPy, Seaborn, Datetime, Scikit-Learn, Grid and Random Cross Validation
 - Performed data cleaning and analysis on large data set with 1460 rows and over 80 features
@@ -28,7 +26,7 @@
 </p>
 
 ---
-[Project 3 Title](http://example.com/)
+### [Project 3 Title](http://example.com/)
 
 ![ChessUrl](https://upload.wikimedia.org/wikipedia/commons/7/71/ChessPawnSpecialMoves.gif "chess")
 
