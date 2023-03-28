@@ -1,11 +1,18 @@
-## Portfolio
+## Selected projects in data science, machine learning, computer vision and NLP
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Project 1 Title](/sample_page)
+
+● Python Tools: OpenCV, OS ,Torch, YAML, YOLOv5, Tensorboard, Google Colab, Jupyter Notebook
+● Used transfer learning to train a pre-trained YOLO object detection model to detect a new class
+● Coded functions to capture desired frames from video, and used images to train and test new custom model
+● Custom model correctly identifies green street signs from video with confidence rates as high as 97%
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -31,5 +38,3 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
