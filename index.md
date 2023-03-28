@@ -16,6 +16,7 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
+
 ![ChessUrl](https://upload.wikimedia.org/wikipedia/commons/7/71/ChessPawnSpecialMoves.gif "chess")
 
 ---
