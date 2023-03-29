@@ -1,7 +1,15 @@
 title: Patrick Oline # your name (or website title) here
 logo: "/images/Screen Shot 2023-01-13 at 11.59.39 AM.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-
+  First description 
+  <br><br>
+  <br>
+  This is
+  <br>
+  Second description 
+  Here are
+  <br><br>
+  <a href="https://www.linkedin.com/in/patrick-oline/">View My LinkedIn Profile</a> 
   
 
 theme: jekyll-theme-minimal
