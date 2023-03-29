@@ -9,8 +9,9 @@
 - Coded functions to capture desired frames from video, and used images to train and test new custom model
 - Custom model correctly identifies green street signs from video with confidence rates as high as 97%
 
+<p float="center">
 <img src="images/ezgif-5-03b1f08f83.gif?raw=true">
-
+</p>
 
 ---
 ### [Predicting Housing Prices](https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Presentationt_Predicting_Housing_Prices.pdf)
