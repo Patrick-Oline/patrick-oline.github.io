@@ -37,7 +37,7 @@
 <p float="left">
 <img src="images/Advertise_1.png?raw=true" width="230" height="220"> <img src="images/Advertise_2.png?raw=true" width="230" height="220">
 </p>
-<img src="images/Advertise_3.png?raw=true">
+<img src="images/Advertise_3.png?raw=true" width="460" height="220">
 
 ---
 
