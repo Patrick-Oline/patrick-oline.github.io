@@ -9,7 +9,7 @@
 - Coded functions to capture desired frames from video, and used images to train and test new custom model
 - Custom model correctly identifies green street signs from video with confidence rates as high as 97%
 
-<p float="center">
+<p align="center">
 <img src="images/ezgif-5-03b1f08f83.gif?raw=true">
 </p>
 
@@ -21,7 +21,7 @@
 - Implemented 3 Linear Regression and 3 Random Forest models, used best model to predictions housing prices
 - Developed and applied functions to obtain a mean absolute percent error of 10.5% on predictions
 
-<p float="left">
+<p align="center">
   <img src="https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Histogram%20of%20Sale%20Price%202.png?raw=true" width="230" height="220">
   <img src="https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Graphs/Screen%20Shot%202023-02-13%20at%203.33.36%20PM.png?raw=true" width="230" height="200">
 </p>
@@ -34,8 +34,8 @@
 - Used statistic analysis and data visualization to organize and interpret different marketing areas
 - The best market was US, on average users spent over $10/month, 2nd market was reliant on price of product
 
-<p float="left">
-<img src="images/Advertise_1.png?raw=true" width="230" height="220"> <img src="images/Advertise_2.png?raw=true" width="230" height="220">
+<p align="center">
+<img src="images/Advertise_1.png?raw=true" width="235" height="220"> <img src="images/Advertise_2.png?raw=true" width="230" height="220">
 </p>
 <img src="images/Advertise_3.png?raw=true" width="460" height="220">
 
