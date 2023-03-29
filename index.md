@@ -1,4 +1,4 @@
-## Selected projects in data science, machine learning, and computer vision.
+## Projects in data science, machine learning, and computer vision.
 
 ---
 
