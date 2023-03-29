@@ -1,4 +1,4 @@
-## Selected projects in data science, machine learning, computer vision and NLP!
+## Selected projects in data science, machine learning, and computer vision.
 
 ---
 
@@ -22,25 +22,31 @@
 - Developed and applied functions to obtain a mean absolute percent error of 10.5% on predictions
 
 <p float="left">
-  <img src="https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Histogram%20of%20Sale%20Price%202.png?raw=true" width="230" height="200">
-  <img src="https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Graphs/Screen%20Shot%202023-02-13%20at%203.33.36%20PM.png?raw=true" width="220" height="200">
+  <img src="https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Histogram%20of%20Sale%20Price%202.png?raw=true" width="230" height="220">
+  <img src="https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Graphs/Screen%20Shot%202023-02-13%20at%203.33.36%20PM.png?raw=true" width="230" height="200">
 </p>
 
 ---
-### [Project 3 Title](http://example.com/)
+### [Finding the Best Markets](https://github.com/Patrick-Oline/Finding_the_Best_Markets_Project)
 
-![ChessUrl](https://upload.wikimedia.org/wikipedia/commons/7/71/ChessPawnSpecialMoves.gif "chess")
+- Python Tools: Pandas, Matplotlib, Pyplot, Seaborn, NumPy
+- Cleaned and explored e-learning survey to determine the best international market in which to increase advertising
+- Used statistic analysis and data visualization to organize and interpret different marketing areas
+- The best market was US, on average users spent over $10/month, 2nd market was reliant on price of product
 
+<img src="images/Advertise_1.png?raw=true" width="230" height="220">
+<img src="images/Advertise_2.png?raw=true" width="230" height="220">
+<img src="images/Advertise_3.png?raw=true">
 
 ---
 
-### Category Name 2
+### More Data Science Work
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Olympic Medal Predictor](https://github.com/Patrick-Oline/Olympic_Medal_Predictions)
+- [Exploring Baseball Players Careers (MATLAB)](https://github.com/Patrick-Oline/Great_Hitters_Stats)
+- [Baseball Webscrapping](https://github.com/Patrick-Oline/Phillies-stats)
+- [WNBA Position Analysis](https://github.com/Patrick-Oline/WNBA-analysis)
+- [Assorted LeetCode Challenges](https://github.com/Patrick-Oline/Leet-Code-Challenges)
 
 ---
 
