@@ -34,8 +34,7 @@
 - Used statistic analysis and data visualization to organize and interpret different marketing areas
 - The best market was US, on average users spent over $10/month, 2nd market was reliant on price of product
 
-<img src="images/Advertise_1.png?raw=true" width="230" height="220">
-<img src="images/Advertise_2.png?raw=true" width="230" height="220">
+<img src="images/Advertise_1.png?raw=true" width="230" height="220"><img src="images/Advertise_2.png?raw=true" width="230" height="220">
 <img src="images/Advertise_3.png?raw=true">
 
 ---
