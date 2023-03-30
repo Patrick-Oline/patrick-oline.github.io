@@ -13,6 +13,14 @@
 <img src="images/ezgif-5-03b1f08f83.gif?raw=true">
 </p>
 
+
+---
+
+### [Summarizing Websites with Machine Learning](https://github.com/Patrick-Oline/Summarizing_Text_with_ML)
+
+- Python Tools: 
+
+
 ---
 ### [Predicting Housing Prices](https://github.com/Patrick-Oline/Predicting_Housing_Prices/blob/main/Presentationt_Predicting_Housing_Prices.pdf)
 
