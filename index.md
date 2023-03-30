@@ -18,7 +18,7 @@
 
 ### [Summarizing Websites with Machine Learning](https://github.com/Patrick-Oline/Summarizing_Text_with_ML)
 
-- Python Tools: 
+- Python Tools: Pandas, Numpy, NLTK, Requests, Selenium, BeautifulSoup, Scikit-Learn, NetworkX, GloVe 
 
 
 ---
