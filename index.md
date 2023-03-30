@@ -18,7 +18,10 @@
 
 ### [Summarizing Websites with Machine Learning](https://github.com/Patrick-Oline/Summarizing_Text_with_ML)
 
-- Python Tools: Pandas, Numpy, NLTK, Requests, Selenium, BeautifulSoup, Scikit-Learn, NetworkX, GloVe 
+- Python Tools: Pandas, Numpy, NLTK, Requests, Selenium, BeautifulSoup, Scikit-Learn, NetworkX, GloVe
+- Used NLP model, GloVe, and cosine similarity to analysis text and return most relevant sentences in an article
+- Applied BeautifulSoup to pull HTML from website and filter out the desired text for summarization
+- Wrote function which takes in url/number(n) and returns the website title and an ‘n’ sentence summarization
 
 
 ---
